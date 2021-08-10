@@ -1,0 +1,16 @@
+.button {
+	color: #000;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: coral;
+	padding: 20px;
+	border-radius: 5px;
+	display: inline-block;
+	border: none;
+	}
+
+.button:hover {
+background-color: greenyellow; 
+color: black;
+border: 2px solid black;
+    }
